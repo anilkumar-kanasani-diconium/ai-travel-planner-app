@@ -7,7 +7,7 @@ export default function Index() {
         flex: 1,
       }}
     >
-      <Text>Hello Anil</Text>
+      <Text style={{fontSize:30,fontFamily:'outfit-bold'}}>Hello Anil</Text>
     </View>
   );
 }
